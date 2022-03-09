@@ -1,4 +1,4 @@
-public class Circulo implements calculosFormas{
+public class Circulo implements CalculosFormas{
   private double radio;
 
     public Circulo(double radio) {

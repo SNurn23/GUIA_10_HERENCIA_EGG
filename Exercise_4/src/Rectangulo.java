@@ -1,4 +1,4 @@
-public class Rectangulo implements calculosFormas{
+public class Rectangulo implements CalculosFormas{
     private double altura;
     private double base;
 
